@@ -1,0 +1,5 @@
+django>=5.0,<6.0
+streamlit>=1.35
+sympy>=1.12
+numpy>=1.26
+pytest>=8.0
